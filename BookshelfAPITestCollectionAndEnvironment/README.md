@@ -1,10 +1,10 @@
 # Postman Tests
 
-Folder ini disiapkan untuk menyimpan:
+This folder is prepared to store:
 
 - `Bookshelf API Test.postman_collection.json`
 - `Bookshelf API Test.postman_environment.json`
 
-Import kedua file tersebut ke Postman untuk pengujian endpoint Bookshelf API.
+Import both files into Postman to test the Bookshelf API endpoints.
 
-Folder ini termasuk bagian dari repository, jadi perubahan file test di dalamnya bisa di-commit dan di-push ke GitHub.
+This folder is part of the repository, so any changes to test files inside it can be committed and pushed to GitHub.
